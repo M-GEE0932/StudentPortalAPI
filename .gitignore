@@ -1,0 +1,13 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.vsidx
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore Angular dependencies
+student-portal-ui/node_modules/
+
+# Ignore environment files
+*.env
